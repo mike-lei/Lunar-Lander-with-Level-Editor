@@ -4,3 +4,27 @@ The player guides a spaceship to a designated landing area using WASD. If the sp
 
 The game also has a level editor: the player can edit the terrain, the position of the landing area and the initial position of the spaceship by dragging them. The level editor supports undo/redo feature.
 
+## Main Interface
+
+Status Bar - 
+
+1) Fuel - It reduces whenever players press W/A/S/D, when it reaches 0, the spaceship is out of control and starts to fall.
+2) Speed - Green font when the speed is safe for landing.
+3) Paused - Players can press SPACE to pause or resume the game.
+4) LANDED/CRASH - Displayed when the spaceship safely lands on the pad or crashes.
+
+Play Area - 
+
+Where players play this game.
+
+Level Editor - 
+
+Only available when the game is paused. It can change everything in the play area.
+
+## Level Editor
+
+There is a level editor with undo/redo feature in this game. Players can simply drag the terrain, spaceship and landing pad to change the difficulty. The change is reflected on the game area immediately.
+
+## Successfully Landed
+
+If the spaceship touches the landing pad with a small velocity, the status bar displays a "LANDED". Players can press SPACE to restart the game.
