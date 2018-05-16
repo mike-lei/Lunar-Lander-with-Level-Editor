@@ -6,6 +6,8 @@ The game also has a level editor: the player can edit the terrain, the position 
 
 ## Main Interface
 
+![Screenshot](1.jpg)
+
 Status Bar - 
 
 1) Fuel - It reduces whenever players press W/A/S/D, when it reaches 0, the spaceship is out of control and starts to fall.
@@ -23,8 +25,12 @@ Only available when the game is paused. It can change everything in the play are
 
 ## Level Editor
 
+![Screenshot](edited.jpg)
+
 There is a level editor with undo/redo feature in this game. Players can simply drag the terrain, spaceship and landing pad to change the difficulty. The change is reflected on the game area immediately.
 
 ## Successfully Landed
+
+![Screenshot](landed.jpg)
 
 If the spaceship touches the landing pad with a small velocity, the status bar displays a "LANDED". Players can press SPACE to restart the game.
