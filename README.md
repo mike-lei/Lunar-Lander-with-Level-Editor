@@ -6,7 +6,7 @@ The game also has a level editor: the player can edit the terrain, the position 
 
 ## Main Interface
 
-![Screenshot](1.jpg)
+![Screenshot](1.JPG)
 
 Status Bar - 
 
@@ -25,12 +25,12 @@ Only available when the game is paused. It can change everything in the play are
 
 ## Level Editor
 
-![Screenshot](edited.jpg)
+![Screenshot](edited.JPG)
 
 There is a level editor with undo/redo feature in this game. Players can simply drag the terrain, spaceship and landing pad to change the difficulty. The change is reflected on the game area immediately.
 
 ## Successfully Landed
 
-![Screenshot](landed.jpg)
+![Screenshot](landed.JPG)
 
 If the spaceship touches the landing pad with a small velocity, the status bar displays a "LANDED". Players can press SPACE to restart the game.
